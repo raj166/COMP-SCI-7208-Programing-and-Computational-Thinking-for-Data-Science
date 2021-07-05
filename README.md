@@ -1,5 +1,5 @@
 # Java Codes
-A beginner’s project on writing Java codes, it includes many mini projects to help with the basic concepts of OOP in java
+A beginner’s project on writing Java codes, it includes many mini projects to help with the basic concepts of OOP and data structures in java
 
 It consists projects like
   1. Domination change for 20 and 50$
