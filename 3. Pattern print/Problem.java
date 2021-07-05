@@ -1,12 +1,9 @@
-//==================================
-// Foundations of Computer Science
-// Student: Raj Patel	
-// id: a1809073
-// Semester: 1
-// Year: 2021
-// Practical Exam Number: Practical Exam 01
-//===================================
-
+/* 
+   print * for value between 1-9 
+   print = for value between 10-20
+   print X or value between 21-30
+   print * for value between 31-40
+ */
 public class Problem{
 
 	public static void main(String[] args){
