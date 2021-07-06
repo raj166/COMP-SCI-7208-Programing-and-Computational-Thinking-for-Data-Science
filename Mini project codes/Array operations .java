@@ -1,9 +1,8 @@
 /**
- * This Code shows method concepts implementation in problem 1 practical 3
  * This class uses classes from class BaseOperations
  * @author RajPatel
  */
-public class Problem01{
+public class Array operations {
 	public static void main(String[] args) {
 
 		//creating object of BaseOperations and calling its method later 
