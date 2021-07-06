@@ -2,7 +2,7 @@
  * This class uses classes from class BaseOperations
  * @author RajPatel
  */
-public class Array operations {
+public class Array_operations {
 	public static void main(String[] args) {
 
 		//creating object of BaseOperations and calling its method later 
