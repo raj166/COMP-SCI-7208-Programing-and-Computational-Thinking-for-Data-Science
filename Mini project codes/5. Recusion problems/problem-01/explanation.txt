@@ -1,0 +1,17 @@
+
+
+towerOfHanoi(n - 1, from_rod, aux_rod, to_rod);
+System.out.println("Move disk "+ n + " from " +	from_rod +" to " + to_rod );
+towerOfHanoi(n - 1, aux_rod, to_rod, from_rod);
+
+we are using the recursion approach to solve tower of hanoi problem, and the variable we are using are int for number of disk as we want ouput containg the disk number, and we are breaking the problem again and again to the smaller probelm having only one disk in the from pole which needs to be moved to the destination pole and so on. 
+
+towerOfHanoi(n - 1, from_rod, aux_rod, to_rod);
+--> this code moves disk from 1st rod to the destination rod.
+
+
+towerOfHanoi(n - 1, aux_rod, to_rod, from_rod);
+--> this code moves disk from aux rod to the destnation rod.
+
+
+
