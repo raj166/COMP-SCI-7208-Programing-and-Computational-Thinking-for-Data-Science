@@ -53,17 +53,17 @@
  Your bracketsMatching method should return TRUE when the brackets/parenthesis 
  are matching, and return FALSE if not. For example,
  
-    Input:  ({})
-    Output: true
+      Input:  ({})
+      Output: true
 
-    Input:  ({)
-    Output: false
+      Input:  ({)
+      Output: false
 
-    Input:  (1+2) * {(2+3)*(3+4)}
-    Output: true
+      Input:  (1+2) * {(2+3)*(3+4)}
+      Output: true
 
-    Input:(1+2) * {{2+3)*(3+4}}
-    Output: false
+      Input:(1+2) * {{2+3)*(3+4}}
+      Output: false
     
   Question 4: Define a MyQueue class. Queue is a 'first in, first out' data structure. 
   You need to implement a queue by the Node class you implemented in Question 1. 
