@@ -2,7 +2,7 @@
 A beginner’s project on writing Java codes, it includes many mini projects to help with the basic concepts of OOP and data structures in java
 
 It consists projects like
-  1. Domination change for 20 and 50$
+  1. Denomination  change for 20 and 50$
   2. Miles too km
   3. Pattern print
   4. OOP cocepts
