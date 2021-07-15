@@ -1,12 +1,3 @@
-//==================================
-// Foundations of Computer Science
-// Student: Raj Patel	
-// id: a1809073
-// Semester: 1
-// Year: 2021
-// Practical Exam Number: Final Practical Exam 
-//===================================
-
 public class Person {
    
     //member variables
