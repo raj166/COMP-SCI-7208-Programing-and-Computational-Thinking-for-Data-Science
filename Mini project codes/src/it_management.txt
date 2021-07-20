@@ -1,0 +1,19 @@
+
+
+Hi developers,
+(FYI)
+
+Today I received a message from Beyonce Smith from the branch 551. 
+As you might know, they are our best clients and we are fully committed to solve their system's branch issues.
+
+Please give full priority to the reported issues. Make sure you are using properly your versioning system in order to prevent the system crashing down. 
+As you are aware, if the system crashing down it might implie in a huge fine to our part.
+
+
+Sure that you will finish Ms. Beyonce's issues soon, I also would like to report a new issue. (Problem 3) I notice that performance of Insertion Sort on branch 551 is not being effient enough. I was wondering whether Selection Sort would perform better for that branch. Could you please implement a Selection Sort class, so we can test this new solution?
+
+Regards,
+
+A. Boss
+IT Manager
+FCS-SA Systems

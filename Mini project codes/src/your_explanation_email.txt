@@ -1,0 +1,7 @@
+Dear manager, 
+
+The problem (1), was due to There was no method to sort the dat using the name(String) there was just an exception throew to solve it , I fixed it using the sort method wich compares the string and works on it and return the string array;   
+The problem (2), was due to the sort was not done first and then used Binaary search that created probelme, I fixed doing using the sort function before the search starts it work id it with same age and name; 
+The problem (3), was due to no implementation of sorting algo, I fixed doing the slection sort implementation ;
+
+Kind regards, Raj Patel a1809073
