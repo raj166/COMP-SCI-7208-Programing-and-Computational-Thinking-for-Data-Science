@@ -1,0 +1,23 @@
+Dear IT departament,
+
+I am the manager of Hungry Donalds (branch 551), MTV Land, SA - Australia. My code is a1145469.
+
+This morning, after I logged in and load my staff members in the system I notice a series of abnormal behaviours.
+
+The (Problem 1) abnormal behaviour consist of the functionality "3. Sort staff by (name)". This functionality should sort by staff member based on their names. However, everytime I choose this option I need to restart the system due an strange error:
+
+Error message: Exception in thread "main" java.lang.UnsupportedOperationException: Not implemented yet!
+
+The (Problem 2) abnormal behaviour happens when I try to use any of the searching options. For instance, today I tried a search "6. Search staff by (age)". However, this functionality only works if I first do the functionality "4. Sort staff by (age)". If I "4. Sort staff by (age)", then "6. Search staff by (age)" the system works fine. 
+
+age: 14 then message: ":: JustinBieber                14      20    5000.0       1"
+
+Otherwise, it returns a strage message:
+age: 14, strange message: ":: Staff does not exist, try again!".
+
+Considering that we will open the restaurant in 2h, I hope your team can solve these issues quickly.
+
+Kind regards,
+Beyonce Smith
+Hungry Donalds Manager
+
